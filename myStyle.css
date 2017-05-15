@@ -1,0 +1,43 @@
+/* myStyle.css */
+a {
+	color: #525252;
+}
+a:hover{
+	color: #00a9e7;
+}
+div {
+	max-width:720px; 
+	padding:10px;
+	padding-left: 0xp;
+	padding-top:5px;
+	padding-bottom:5px
+}
+body {
+	background-color: white;
+	color: #525252;
+}
+td {
+	background-color: white;
+}
+img {
+	width: 225px;
+	height: 225px;
+}
+#spacebar {
+	background-size: 100% 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+	width: 100%;
+	height: 33px;
+	background-image: url(assets/bar.jpg);
+}
+#navitem {
+	padding-left: 30px;
+}
+#entry {
+	text-indent: 40px;
+	max-width: 660px;
+	padding-left: 45px;
+	padding-bottom: 15px;
+	/*background-color: #00a9e7;*/
+}
