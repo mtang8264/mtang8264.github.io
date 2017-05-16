@@ -24,7 +24,9 @@ h2 {
 	padding-left: 45px;
 }
 footer {
-	display: block;	
+	display: block;
+	text-align: center;
+	vertical-align: bottom;
 }
 #logo {
 	padding: 25px;
