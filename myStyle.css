@@ -67,6 +67,6 @@ footer {
 
 @font-face {
 	font-family: josefinSans;
-	src: url(jose/JosefinSans-Regular.ttf);
-	src: url(jose/JosefinSans-Regular.svg#JosefinSans) format("svg")
+	src: url(jose/JosefinSans-Regular.ttf) format("truetype"),
+		url(jose/JosefinSans-Regular.svg#JosefinSans) format("svg")
 }
