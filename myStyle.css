@@ -28,7 +28,8 @@ footer {
 	background-color: 00a9e7;
 	display: block;
 	text-align: center;
-	vertical-align: bottom;
+	position: absolute;
+	bottom: 0px;
 }
 #footpic {
 	width: 100%;
