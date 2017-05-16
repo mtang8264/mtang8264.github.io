@@ -55,4 +55,5 @@ h2 {
 @font-face {
 	font-family: josefinSans;
 	src: url(jose/JosefinSans-Regular.ttf");
+	src: url(jose/JosefinSans-Regular.svg#JosefinSans) format("svg")
 }
