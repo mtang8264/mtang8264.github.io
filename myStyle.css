@@ -13,9 +13,12 @@ div {
 	padding-bottom:5px
 }
 body {
+	padding-left: 0px;
+	padding-right: 0px;
 	font-family: josefinSans;
 	background-color: white;
 	color: #525252;
+	overflow-x: hidden;
 }
 td {
 	background-color: white;
@@ -76,6 +79,7 @@ footer {
 		url('jose/JosefinSans-Regular.woff') format('woff'),
 		url('jose/JosefinSans-Regular.ttf') format('truetype'),
 		url('jose/JosefinSans-Regular.svg#JosefinSans') format('svg');
-		
-	
+}
+html {
+	overflow-x: hidden;
 }
