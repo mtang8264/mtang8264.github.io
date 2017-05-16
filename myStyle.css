@@ -13,6 +13,7 @@ div {
 	padding-bottom:5px
 }
 body {
+	font-family: josefinSans;
 	background-color: white;
 	color: #525252;
 }
@@ -49,4 +50,9 @@ h2 {
 	padding-left: 45px;
 	padding-bottom: 15px;
 	/*background-color: #00a9e7;*/
+}
+
+@font-face {
+	font-family: josefinSans;
+	src: url(jose/JosefinSans-Regular.ttf");
 }
