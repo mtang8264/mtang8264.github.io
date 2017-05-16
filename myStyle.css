@@ -67,6 +67,12 @@ footer {
 
 @font-face {
 	font-family: josefinSans;
-	src: url(jose/JosefinSans-Regular.ttf) format("truetype"),
-		url(jose/JosefinSans-Regular.svg#JosefinSans) format("svg")
+	src: url('jose/JosefinSans-Regular.eot');
+	src: url('jose/JosefinSans-Regular.eot?#iefix') format('embedded-opentype'),
+		url('jose/JosefinSans-Regular.woff2') format('woff2'),
+		url('jose/JosefinSans-Regular.woff') format('woff'),
+		url('jose/JosefinSans-Regular.ttf') format('truetype'),
+		url('jose/JosefinSans-Regular.svg#JosefinSans') format('svg');
+		
+	
 }
