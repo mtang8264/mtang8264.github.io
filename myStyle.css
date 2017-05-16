@@ -30,10 +30,11 @@ footer {
 	vertical-align: bottom;
 }
 #foot {
+	background-color: 00a9e7;
 	text-align: center;
 	vertical-align: bottom;
-	font-size: 80%;
-	opacity: .75;
+	font-size: 90%;
+	opacity: .5;
 }
 #logo {
 	padding: 25px;
