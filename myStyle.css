@@ -8,7 +8,6 @@ a:hover{
 div {
 	max-width:720px; 
 	padding:10px;
-	padding-left: 0xp;
 	padding-top:5px;
 	padding-bottom:5px
 }
@@ -26,8 +25,12 @@ td {
 h2 {
 	padding-left: 45px;
 }
-footer {
-	padding-top: 45px;
+#footy {
+	position: absolute;
+	bottom: 0;
+	width: 150%;
+	text-align: center;
+	margin-left: -25%;
 }
 #footpic {
 	width: 100%;
@@ -36,11 +39,12 @@ footer {
 	background-size: 100% 100%;
 }
 #foot {
-	background-color: 00a9e7;
+	background-color: #00a9e7;
 	text-align: center;
 	vertical-align: bottom;
 	font-size: 90%;
-	opacity: .65;
+	opacity: .7;
+	color: white;
 }
 #logo {
 	padding: 25px;
