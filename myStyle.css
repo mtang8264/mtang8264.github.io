@@ -47,6 +47,7 @@ h2 {
 #foot {
 	font-weight: bold;
 	margin: 0;
+	margin-bottom: 5px;
 	background-color: #00a9e7;
 	text-align: center;
 	vertical-align: bottom;
