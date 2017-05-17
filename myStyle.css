@@ -12,8 +12,7 @@ div {
 	padding-bottom:5px
 }
 body {
-	padding-left: 0px;
-	padding-right: 0px;
+	margin: 0;
 	font-family: josefinSans;
 	background-color: white;
 	color: #525252;
@@ -60,7 +59,8 @@ h2 {
 	background-size: 100% 100%;
 	padding-left: 0px;
 	padding-right: 0px;
-	width: 100%;
+	width: 110%;
+	margin-left: -5px;
 	height: 33px;
 	background-image: url(assets/bar.jpg);
 }
