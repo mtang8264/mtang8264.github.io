@@ -25,6 +25,9 @@ td {
 h2 {
 	padding-left: 45px;
 }
+#fullwidth {
+	width: 100%;
+}
 #footy {
 	position: absolute;
 	bottom: 0;
