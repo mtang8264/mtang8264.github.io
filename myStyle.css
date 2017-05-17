@@ -3,7 +3,7 @@ a {
 	color: #525252;
 }
 a:hover{
-	color: #00a9e7;
+	color: #ff8f00;
 }
 div {
 	max-width:720px; 
@@ -23,9 +23,12 @@ td {
 }
 h2 {
 	padding-left: 45px;
+	color: #ff8f00
 }
 #fullwidth {
 	width: 100%;
+	padding-top: 25px;
+	padding-bottom: 25px;
 }
 #footy {
 	position: absolute;
@@ -41,6 +44,7 @@ h2 {
 	background-size: 100% 100%;
 }
 #foot {
+	margin: 0;
 	background-color: #00a9e7;
 	text-align: center;
 	vertical-align: bottom;
@@ -75,6 +79,12 @@ h2 {
 	padding-left: 45px;
 	padding-bottom: 15px;
 	/*background-color: #00a9e7;*/
+}
+#para {
+	text-indent: 40px;
+	margin: auto;
+	max-width: 1000px;
+	width: 85%
 }
 
 @font-face {
