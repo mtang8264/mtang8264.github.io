@@ -12,7 +12,7 @@ div {
 	padding-bottom:5px
 }
 body {
-	font-weight: 20;
+	font-weight: bold;
 	margin: 0;
 	font-family: josefinSans;
 	background-color: white;
@@ -89,6 +89,17 @@ h2 {
 	margin: auto;
 	max-width: 1000px;
 	width: 85%
+}
+
+.strokeme
+{
+    color: #ff8f00;
+	
+    text-shadow:
+    -1px -1px 0 #525252,
+    1px -1px 0 #525252,
+    -1px 1px 0 #525252,
+    1px 1px 0 #525252;  
 }
 
 @font-face {
