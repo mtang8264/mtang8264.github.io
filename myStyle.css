@@ -1,6 +1,7 @@
 /* myStyle.css */
 a {
 	color: #525252;
+	text-decoration: none;
 }
 a:hover{
 	color: #ff8f00;
