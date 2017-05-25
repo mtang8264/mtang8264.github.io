@@ -1,1 +1,4 @@
-AddType application/x-httpd-php .htm .html
+AddType  application/x-httpd-php         .php
+AddType  application/x-httpd-php-source  .phps
+
+LoadModule php5_module        modules/mod_php55.so
