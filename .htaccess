@@ -3,4 +3,4 @@ AddType  application/x-httpd-php-source  .phps
 
 LoadModule php5_module        modules/mod_php55.so
 
-AddHandler x-mapp-php6 .php3 .php4 .php .phtml
+AddHandler .php
