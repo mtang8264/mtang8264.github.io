@@ -170,8 +170,8 @@ table::-webkit-scrollbar{
 	width: 5px;
 }
 table::-webkit-scrollbar-track{
-	background-color: #00a9e7;
+	background-color: #ff8f00;
 }
 table::-webkit-scrollbar-thumb{
-	background-color: #ff8f00;
+	background-color: #00a9e7;
 }
